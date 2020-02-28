@@ -1,12 +1,7 @@
-@font-face {
-  font-family: Gadugi;
-  src: url(https://github.com/ComradeHegel/website-test-a/blob/master/fonts/gadugi-normal.ttf);
-}
-
 .h1 {
   font-style:normal;
   font-variant:normal;
   font-weight:bold;
   font-stretch:normal;
-  font-family:Gadugi;
+  font-family:"Helvetica Neue";
 }
